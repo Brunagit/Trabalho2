@@ -1,4 +1,5 @@
-<?php/
+<?php
+//Fiz uma alteração
 //conexao BD
 require_once 'db_connect.php';
 //sessão
